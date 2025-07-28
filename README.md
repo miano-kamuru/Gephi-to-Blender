@@ -1,6 +1,6 @@
 # Gephi-to-Blender
 generate geometry from gephi json files
-
+![alt text](https://github.com/miano-kamuru/Gephi-to-Blender/blob/main/blender_screenshot.jpg?raw=true)
 # Usecase DEMOS
 [![Watch the video](https://github.com/miano-kamuru/Data-Viz-With-Augmented-Reality-Project-Demos-/blob/main/screenshot_1.png)](https://www.artstation.com/artwork/nJ6JW1)
 [![Watch the video](https://github.com/miano-kamuru/Data-Viz-With-Augmented-Reality-Project-Demos-/blob/main/screenshot_2.png)](https://www.artstation.com/artwork/nJbzzX)
