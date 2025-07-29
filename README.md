@@ -1,5 +1,5 @@
 # Gephi-to-Blender
-Gephi-to-Blender.py Generates 3D network graphs from Gephi JSON files for use in augmented and virtual reality.
+Gephi-to-Blender.py Generates low poly, well organized 3D network graphs from Gephi JSON files for use in augmented and virtual reality.
 ![alt text](https://github.com/miano-kamuru/Gephi-to-Blender/blob/main/blender_screenshot.jpg?raw=true)
 ![alt text](https://github.com/miano-kamuru/Gephi-to-Blender/blob/main/blender_screenshot2.jpg?raw=true)
 
