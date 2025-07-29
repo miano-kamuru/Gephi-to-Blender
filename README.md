@@ -1,5 +1,5 @@
 # Gephi-to-Blender
-generate geometry from gephi json files
+generate 3d network graphs from gephi json files
 ![alt text](https://github.com/miano-kamuru/Gephi-to-Blender/blob/main/blender_screenshot.jpg?raw=true)
 ![alt text](https://github.com/miano-kamuru/Gephi-to-Blender/blob/main/blender_screenshot2.jpg?raw=true)
 
